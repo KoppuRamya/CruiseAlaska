@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="120387" started-at="2020-04-15T14:10:32Z" finished-at="2020-04-15T14:12:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="120387" started-at="2020-04-15T14:10:32Z" finished-at="2020-04-15T14:12:32Z">
+      <class name="com.testcases.testcase">
+        <test-method status="PASS" signature="launchingChrome()[pri:0, instance:com.testcases.testcase@3a82f6ef]" name="launchingChrome" is-config="true" duration-ms="69239" started-at="2020-04-15T19:40:32Z" finished-at="2020-04-15T19:41:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingChrome -->
+        <test-method status="PASS" signature="Royalcaribbean()[pri:0, instance:com.testcases.testcase@3a82f6ef]" name="Royalcaribbean" duration-ms="45136" started-at="2020-04-15T19:41:42Z" finished-at="2020-04-15T19:42:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Royalcaribbean -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.testcases.testcase@3a82f6ef]" name="close" is-config="true" duration-ms="5270" started-at="2020-04-15T19:42:27Z" finished-at="2020-04-15T19:42:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.testcases.testcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
